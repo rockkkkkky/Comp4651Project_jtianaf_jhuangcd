@@ -1,2 +1,6 @@
-# Comp4651Project_jtianaf_jhuangcd
-Comp4651Project_Literature Review on Distributed File Systems –HUANG Jiaying, TIAN Jingqi
+# Comp4651Project
+Comp4651Project: A Literature Review on Distributed File Systems by HUANG Jiaying, TIAN Jingqi
+HUANG Jiaying
+
+TIAN Jingqi
+student ID:20677380
